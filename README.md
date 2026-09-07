@@ -2,7 +2,7 @@
 
 <p>
 Building hands-on Linux, Docker, cloud, and automation projects while transitioning into DevOps & Cloud Engineering.<br>
-Native German & Turkish • C1 English
+Native German & Turkish • C2 English
 </p>
 
 <p>
